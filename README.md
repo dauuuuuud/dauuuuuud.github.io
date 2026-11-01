@@ -1,3 +1,4 @@
+<meta name="bitmedia-site-verification" content="6c48fe021d35ff61b384a8cb0c98b2d3" />
 <!-- BEGIN AADS AD UNIT 2460666 -->
 
 <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
