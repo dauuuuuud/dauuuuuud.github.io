@@ -1,4 +1,3 @@
-# dauuuuuud.github.io
 <!-- BEGIN AADS AD UNIT 2460666 -->
 
 <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
